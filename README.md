@@ -7,7 +7,7 @@
 
 ## Table of content : 
 1. [HTML and JavaScript](https://hossamhaddad.github.io/201reading-notes/class-01)
-2. 
+2. [HTML and CSS and Javascript](https://hossamhaddad.github.io/201reading-notes/class-02)
 3. 
 
 
