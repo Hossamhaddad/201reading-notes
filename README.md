@@ -12,6 +12,6 @@
 4. [JavaScript, CSS AND HTML](https://hossamhaddad.github.io/201reading-notes/class-04)
 5. [HTML and CSS](https://hossamhaddad.github.io/201reading-notes/class-05)
 6. [JavaScript DOM](https://hossamhaddad.github.io/201reading-notes/class-06)
-
+7. [HTML and JavaScript](https://hossamhaddad.github.io/201reading-notes/class-07)
 
 ## For more info contact me :husamhaddad80@gmail.com
