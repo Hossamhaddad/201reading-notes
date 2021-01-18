@@ -17,5 +17,6 @@
 9. [HTML and Javascript](https://hossamhaddad.github.io/201reading-notes/class-09)
 10. [JavaScript Debugging](https://hossamhaddad.github.io/201reading-notes/class-10)
 11. [HTML Css and JavaScript ](https://hossamhaddad.github.io/201reading-notes/class-11)
+12. [Charts.js and Canvas](https://hossamhaddad.github.io/201reading-notes/class-12)
 
 ## For more info contact me :husamhaddad80@gmail.com
