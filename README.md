@@ -19,5 +19,7 @@
 11. [HTML Css and JavaScript ](https://hossamhaddad.github.io/201reading-notes/class-11)
 12. [Charts.js and Canvas](https://hossamhaddad.github.io/201reading-notes/class-12)
 13. [Local Storage For Web Applications](https://hossamhaddad.github.io/201reading-notes/class-13)
+14. [What Google Learned ](https://hossamhaddad.github.io/201reading-notes/class-14b)
+15. [CSS](https://hossamhaddad.github.io/201reading-notes/class-14a)
 
 ## For more info contact me :husamhaddad80@gmail.com 
